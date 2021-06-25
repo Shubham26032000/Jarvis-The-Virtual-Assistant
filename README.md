@@ -1,2 +1,2 @@
 # Jarvis-The-Virtual-Assistant
-The vertual assitant work on vocal imput.
+The vertual assitant work on vocal input using python.
